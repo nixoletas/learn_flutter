@@ -1,6 +1,6 @@
 # learn_flutter
 
-A new Flutter project.
+Learning Flutter from scratch using Flutter Documentation.
 
 ## Getting Started
 
